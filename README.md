@@ -1,2 +1,7 @@
 # assignment_viking_spa
-high-speed angularingg
+
+Dexter Ford
+
+"shopping cart" service
+- (keeps track of products u bought)
+- be able to CRUD this biz, etc.
